@@ -12,7 +12,7 @@ Criar um programa que simule um software de um restaurante. O software deverá s
 - No processo de finalização da compra deve existir uma opção para o cliente desistir da compra, em caso positivo deve ser perguntado a confirmação da desistência (informando os produtos/serviços que o cliente está desistindo)
 - Ao finalizar a compra deve-se voltar a tela inicial "Acessar programa / Finalizar programa". Quando finalizar deve-se exibir uma mensagem agradecendo a visita, informando o que foi comprado e o valor gasto no estabelecimento 
 
-Atenção! Só poderão ser usadas a estrutura de repetição "while" e as estruturas de condição "if/elif/else". Não poderá ser usado função ou classe.
+Atenção! Não poderá ser usado função ou classe.
 
 
 ## Ferramentas utilizadas:
